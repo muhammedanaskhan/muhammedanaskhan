@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/m_anas_dev" target="blank"><img src="https://img.shields.io/twitter/follow/m_anas_dev?logo=twitter&style=for-the-badge" alt="iammuhammedanas" /></a> </p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anaskhan7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/m_anas_dev) 
 - 📫 Reach me **muhammedanas5186@gmail.com**
