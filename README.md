@@ -1,7 +1,12 @@
 
 <a href="http://anaskhandev.vercel.app" target="_blank"><img src="https://github.com/muhammedanaskhan/muhammedanaskhan/assets/72510634/8cb88f65-667e-492e-840c-6963a791973a" /></a>
 
-<p align="center">I am a Frontend Developer & Technical Writer. Find all my work <a href="http://anaskhandev.vercel.app">here</a>.</p>
+<p align="center">Hey👋, I am Anas</p>
+
+- 🖥️ Frontend Developer
+- 📍 Indore, India
+- 📰 I write about Web Development topics, mostly Frontend <a href="https://hashnode.com/@anaskhan">here</a>.
+- 📭 Reach out to me at muhammedanas5186@gmail.com
 
 **Work experience**
 
