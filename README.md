@@ -1,7 +1,7 @@
 
 <a href="http://anaskhandev.vercel.app" target="_blank"><img src="https://github.com/muhammedanaskhan/muhammedanaskhan/assets/72510634/8cb88f65-667e-492e-840c-6963a791973a" /></a>
 
-**Hey 👋, I am Anas**
+<p align="center">I am a Frontend Developer & Technical Writer. Find all my work <a href="http://anaskhandev.vercel.app">here</a>.</p>
 
 ♂ He/Him/His <br>
 📍 Indore, India
