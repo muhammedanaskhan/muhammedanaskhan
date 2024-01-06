@@ -1,5 +1,5 @@
 
-<p align="center">Hey👋, I am Anas</p>
+<p align="center">Hey👋, I am Anas!</p>
 
 - 🖥️ Frontend Developer
 - 📍 Indore, India
