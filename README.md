@@ -9,7 +9,8 @@
 
 **Work experience**
 
-- Working as a Frontend Engineer at [Emproto Technologies](https://www.emproto.com/)
+- Worked as a Frontend Engineering Intern at [Buildorz](https://www.buildorz.com/)
+- Worked as a Frontend Engineering Intern at [Emproto Technologies](https://www.emproto.com/)
 - Worked as a Frontend Engineering Intern at [ZuAi](https://zuapp.co)
 
 **Tech Stack**
