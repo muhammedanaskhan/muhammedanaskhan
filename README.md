@@ -1,6 +1,7 @@
 
 <p align="center">Hey👋, I am Anas!</p>
 
+- 📦 Building findroomie.co
 - 🖥️ Frontend Developer
 - 📍 Indore, India
 - 🚀 You can find all my work <a href="http://anaskhandev.vercel.app">here</a>.
